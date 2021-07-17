@@ -9,6 +9,7 @@ open the terminal and run :
     2. ng serve
   - Second Terminal :
     1. npm run server
+###
 Then, Open "http://localhost:4200" to see result
 ###
 ###
