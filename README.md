@@ -2,6 +2,7 @@
 This is a Task Tracker Application based on  AngularJs Framework
 ###
 ###
+# Make sure to have AngularCli installed in your Device
 # Do the following to start the app:
 open the terminal and run :
   - First Terminal :
